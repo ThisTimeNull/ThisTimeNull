@@ -10,20 +10,20 @@
 * <a href="https://github.com/matdaaiga-kr/">맞다AI가</a> 스피커 및 운영팀 | 2025.01 - 2025.07 / 2026.02 - ing
 * <a href="https://jungle.krafton.com/">크래프톤 정글</a> 10기 | 2025.07 - 2025.12
 
-### Activities
+### Work Experience
 * <a href="https://edu.potens.ai/corporate-training/gen-ai-training">코멘토•포텐스닷</a> Education Manager | 2026.03 - 2026.08
 * <a href="https://www.lgcns.com/kr">LG CNS</a> Innovation Studio 사원 | 2026.08 - ing
 
-### Websites
-* <a href="https://matdaaiga.kr/">맞다AI가 웹사이트</a>
-* <a href="https://docker-ko.github.io/">도커 한국어 번역 오픈소스 웹사이트</a>
- 
+### Activities
+
 ##### 2024년
 * <a href="https://thistimenull.notion.site/2024-in-8755b55784f9432f85784e794474c184?pvs=4">해커그라운드 해커톤 in 의성</a> | TF(검증팀)
 * <a href="https://youtube.com/playlist?list=PLleSMpKVqo1NSk7eKD3jTJDo1uNjWJto1&si=FjCqhMpBBUjS2bUx">클라우드 스킬 챌린지</a> | 유튜브 라이브 스트리밍 
 * <a href="https://dddseoul.kr/speakers/siyeonglee">DDDSeoul 컨퍼런스</a> | 발표
 
 ##### 2025년
+* <a href="https://matdaaiga.kr/">맞다AI가 웹사이트</a> | 개발
+* <a href="https://docker-ko.github.io/">도커 한국어 번역 오픈소스 웹사이트</a> | 개발
 * <a href="https://matdaaiga.kr/2025/03/31/global-ai-bootcamp-daegu-2025-retro">Global AI Bootcamp in Daegu</a> | 발표
 * <a href="https://matdaaiga.kr/2025/06/25/global-ai-github-copilot-bootcamp-daegu-2025-retro">Global AI GitHub Copilot Bootcamp in Daegu</a> | 발표
 * <a href="https://youtube.com/playlist?list=PLDZRZwFT9WksXxU5uQOO3vIbYHnp1e-SC&si=yW7dmgahJBfkoSDt">GitHub Copilot Vibe Coding Workshop</a> | 유튜브 촬영
@@ -33,5 +33,6 @@
 * <a href="https://matdaaiga.kr/2026/02/22/global-power-platform-bootcamp-seoul-retro">Global Power Platform Bootcamp Seoul 2026</a> | 프록토
 * <a href="https://matdaaiga.kr/2026/03/29/global-ai-agent-camp-2026-retro">Global AI Agent Camp 2026</a> | 발표
 * <a href="https://matdaaiga.kr/2026/07/22/matdaaiga-2026-07-meetup-retro">맞다AI가 7월 밋업 - 하네스 엔지니어링</a> | 발표
+* <a href="https://matdaaiga.kr/2026/08/22/matdathon-2026-retro">맞다톤 (맞다AI가 해커톤)</a> | 디자인, 진행
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krsy0411)](https://solved.ac/krsy0411)
