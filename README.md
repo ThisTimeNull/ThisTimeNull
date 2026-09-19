@@ -5,10 +5,11 @@
 저는 기술을 이해하는 만큼 잘 소통할 수 있는 사람이 되고 싶습니다. 기술적 깊이와 그것을 필요로 하는 사람들 사이의 간극을 줄이기 위해 노력하고 있습니다.
 
 ### Community
-* <a href="https://likelion.net/">계명대학교 멋쟁이사자처럼</a> 러너, 운영진, 프론트엔드 멘토 | 2023.03 - 2024.12 
+* <a href="https://likelion.net/">계명대학교 멋쟁이사자처럼</a> 러너, 운영진, 프론트엔드 멘토 | 2023.03 - 2024.12
+* <a href="https://hackersground.kr/">해커그라운드</a> 스피커 | 2023.03 - 2024.12
 * <a href="https://mvp.microsoft.com/ko-KR/studentambassadors">MSA(Microsoft Student Ambassadors)</a> Alpha | 2024.09 - 2025.02
-* <a href="https://github.com/matdaaiga-kr/">맞다AI가</a> 스피커 및 운영팀 | 2025.01 - 2025.07 / 2026.02 - ing
 * <a href="https://jungle.krafton.com/">크래프톤 정글</a> 10기 | 2025.07 - 2025.12
+* <a href="https://github.com/matdaaiga-kr/">맞다AI가</a> 운영진 | 2025.01 - ing
 
 ### Work Experience
 * <a href="https://edu.potens.ai/corporate-training/gen-ai-training">코멘토•포텐스닷</a> Education Manager | 2026.03 - 2026.08
